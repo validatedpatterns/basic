@@ -15,4 +15,4 @@ clusterGroup:
       name: hello-world
       namespace: hello-world
       project: hello-world
-      path: charts/all/hello-world
+      path: charts/hello-world
