@@ -3,16 +3,16 @@ clusterGroup:
   isHubCluster: false
 
   namespaces:
-    - hello-world
+    - myNamespace
 
   subscriptions: {}
 
   projects:
-    - hello-world
+    - myProject
 
   applications:
-    hello-world:
+    myApp:
       name: hello-world
-      namespace: hello-world
-      project: hello-world
+      namespace: myNamespace
+      project: myProject
       path: charts/hello-world
