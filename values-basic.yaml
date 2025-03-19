@@ -1,5 +1,5 @@
 clusterGroup:
-  name: standalone
+  name: basic
   isHubCluster: false
 
   namespaces:
