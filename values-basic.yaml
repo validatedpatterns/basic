@@ -1,6 +1,5 @@
 clusterGroup:
   name: basic
-  isHubCluster: false
 
   namespaces:
     - myNamespace
